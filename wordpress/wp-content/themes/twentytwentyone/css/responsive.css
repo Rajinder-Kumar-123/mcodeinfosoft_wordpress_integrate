@@ -1,0 +1,313 @@
+
+/*Responsive Css Start*/
+
+@media only screen and (min-width:1400px) 
+{
+	.head-title .title-sub {
+    font-size: 66px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px)
+{section.portfolio .gallery .items {
+    padding: 15px!important;
+}
+	.designright .designimg .designimg2 {
+    height: 100%;
+   
+}section.amazon.design .amazonleft {
+	  margin-top: 80px;
+}section.aboutus.marketing .head-title {
+    margin-bottom: 30px!important;
+}.tehnologylist .iconlist {
+    display: inline-block;
+}.tehnologylist h3 {
+    width: 100%;
+}section.aboutus .head-title {
+    margin-bottom: 30px!important;
+}h2.fadedcontent
+{
+	text-align:Center;
+}.head-title .title-sub {
+    position: initial;
+   
+}.head-title {
+   
+    margin-top: 0;
+}
+	section.testimonials .slick-slide img {
+    max-height: 350px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 40px;
+}.title-laa-main h3 {
+   
+    font-size: 30px;
+}.flex1 {
+    flex: initial;
+}.mark-p-l {
+    padding: 14px 0px 20px 0px!important;
+}.mark-p-r {
+    padding: 14px 0px 20px 0px!important;
+}.afterimg:after , .afterimg:before
+{
+	display:none
+}
+}
+@media only screen and (max-width:767px)
+{
+section.portfolio .gallery .items {
+    padding: 15px!important;
+}
+
+.nw-st-slds .cont-slidr-yra { padding-left: 0px;}
+.nw-st-slds .cont-slidr-yra h1 {font-size: 40px;}
+.nw-st-slds .cont-slidr-yra h1 span { font-size: 60px;}
+.nw-st-slds .cont-slidr-yra:after { left: 20px; width: 100%;}
+a.btn-curve.btn-lit.btn-slta {
+    opacity: 0;
+}
+.title-laa-main h3 {
+   
+    font-size: 22px!important;
+}
+.mark-p-l {
+    padding: 14px 0px 20px 0px!important;
+}
+.mark-p-r {
+    padding: 14px 0px 20px 0px!important;
+}
+.afterimg:after , .beforeimg:before  , .shape
+{
+	display:none
+}
+footer.about-us.techno.bg-darks.footer-main .footer-inner h6 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+footer.about-us.techno.bg-darks.footer-main .work-tgther {
+  
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+.usefulinks ul li {
+    font-size: 13px;
+}
+.head-title .title-main {
+font-size: 30px;}
+
+.slider-for .img img{
+	    max-height: 250px;
+    object-fit: cover;
+    object-position: 0% 43%;
+}
+.section.searchfriendly .seoright{
+
+		    padding: 0px 30px 30px;
+}
+.flex1 ,  section.searchfriendly .seoleft  , .section.searchfriendly .seoright{
+    flex: initial;
+}section.searchfriendly .seoright {
+  padding:10px 30px 20px!important;
+}
+.offpage
+{
+	padding:30px 0px 50px!important;
+}
+.slider-for .img {
+    margin-bottom: 20px;
+}.about-content p span.numb {
+    font-size: 31px;
+    min-width: 48px;
+}h2.fadedcontent {
+    
+    text-align: center;
+}.designright .designimg:before , .designright .designimg:after  , .amazon.ecommerce .amazonimg:before , .amazon.ecommerce .amazonimg:after , section.stayrelevant.paidadvertising4 .relevant-content:before , section.stayrelevant.paidadvertising4 .relevant-content:after 
+{
+	display:none
+}.amazonimg {
+    padding-left:0px;
+    padding-right: 0px;
+}section.seoservice2.paidad3 .paidimg {
+      margin-top: -70px;
+    width: 100%;
+}section.seoservice2.paidad3 .paidimg img {
+  
+ 
+    max-height: 100%;
+    max-width: 100%;
+    min-height: 250px;
+    object-fit: Cover;
+}.paidcontent , .paidcontent-l{
+    width: 100%;
+    float: right;
+    padding: 30px 0px 0px 0px;
+}.seolist.right-ad {
+  display: flex!important;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}section.seoservice2.paidad3 .right-ad .paidimg {
+  
+    width: 100%;
+  
+}section.seoservice2.paidad3 .right-ad .paidimg:after
+{
+	    left: initial;
+	    right: -10px;
+}section.seoservice2.paidad3 {
+    padding: 80px 15px;
+}section.paid-advertising {
+    padding: 10px 0px 50px!important;
+}
+.mob-dispnone
+{
+	display:none;
+}
+	section.testimonials:before
+	{
+	display:none;
+	}
+	.designright .designimg .designimg2 {
+  height: 100%!important;
+    margin-top: 40px;
+   
+}section.amazon.design .amazonleft {
+	  margin-top: 40px;
+    margin-bottom: 0;
+}section.aboutus.marketing .head-title {
+    margin-bottom: 30px!important;
+}section.amazon .amazonleft {
+    margin-bottom: 50px;
+}.tehnologylist .iconlist {
+    display: inline-block;
+}.tehnologylist h3 {
+    width: 100%;
+}.aboutus .content:before  , .seo-marketing.optimize .seoleft .seoimg:before
+{
+	display:none!important;
+}section.aboutus .head-title {
+    margin-bottom: 30px!important;
+}
+	section.testimonials .slick-slide img {
+    max-height: 350px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 40px;
+}section.slider.slide-controls {
+    height: 65vh;
+}
+.slider .parallax-slider .swiper-slide {
+    min-height: 65vh;
+}
+.portfolio .filtering .filter span
+{
+	padding: 7px 15px;
+}.designright .designimg:after {
+   right: 10px!important;
+    bottom: -70pximportant;
+    bottom:auto!important;
+}.head-title .title-sub {
+       position: initial!important;
+}.designright .designimg {
+ 
+    padding: 0px;
+}.designright .designimg:before {
+    
+    left: 11px!important;
+  
+}section.aboutus {
+      padding: 0 0px 30px;
+}.aboutus .content {
+    padding: 40px;
+    background: #fff;
+    color: #fff;
+    box-shadow: none;
+}.aboutus .content {
+    padding: 0px 30px;
+
+    box-shadow: none;
+}
+section.technology .tehnologylist {
+    margin-top: 30px;
+}
+section.technology , section.amazon.patterncube , section.marketing , section.amazon.design , section.portfolio {
+       padding: 0 0px 30px!important;
+}section.amazon.ecommerce .amazonleft {
+    margin-bottom: 20px;
+} section.testimonials .head-title {
+    margin-top: 0;
+}
+section.amazon.ecommerce
+{padding: 0 0px 60px!important;
+}.marketimg img {
+      border-radius: 0px 80px 0px 0px;
+    /* max-width: 300px; */
+}
+ section.testimonials{
+       padding: 50px 0px 30px!important;
+}section.amazon.patterncube  .amazonleft
+{ 
+margin-bottom: 0px!important;
+
+} section.amazon.design
+{padding-top: 60px!important;
+}
+section.marketing .flex1  , .offpage  .seoleft  {
+	padding-left:15px!important;
+	padding-right:15px!important;
+}section.offpage .offpage-p-l {
+ 
+    padding: 0px 0px 25px 15px;
+}section.offpage .offpage-p-r {
+   
+    padding: 0px 0px 25px 15px;
+}section.seoservice2 {
+   
+    padding: 40px 15px;
+}.seolist.seocenter {
+  
+    transform: inherit;
+}.seolist {
+    margin-bottom: 15px;
+}
+section.marketing .mt-40 {
+    margin-top: 0px !important;
+}.marketimg {
+    background: transparent;
+    box-shadow:none;
+}
+.order2
+{
+	order:2;
+}.seo-marketing .seoleft .seoimg:before  , .seo-marketing .seoleft .seoimg:after
+{
+	display:none;
+}.sem img
+{
+	transform:initial;
+}.seo-marketing .seoleft {
+    padding-right: 15px;
+}section.seo-marketing .head-title  , section.seoservice .head-title{
+   
+    margin-top: 0px;
+}.offpage img.smallimg {
+    bottom: initial;
+    top: -20px;
+    border: 2px solid #f7bb23;
+}section.seo-marketing , section.seoservice{
+    padding-top: 50px!important;
+    padding-bottom: 40px!important;
+}section.stayrelevant .relevant-content {
+
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}.page-header .cont h1 {
+    font-size: 42px;
+}.seo-marketing .seoleft .seoimg {
+
+    margin-bottom: 20px;
+}.market-analytics-inner , .contentcreation-inner{
+    margin: 0;
+}
+}
+/*Responsive Css Ends*/
